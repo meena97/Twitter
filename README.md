@@ -2,7 +2,7 @@
 
 **Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **X** hours spent in total
+Time spent: **~40+** hours spent in total
 
 ## User Stories
 
@@ -89,6 +89,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 - Replying to users
 - Clicking on various users and getting their info (not mine) to show up on the profile header
 - Liking/unliking and untweeting/retweeting was difficult (getting the numbers to increment and decrement)
+- Autolayout was very tedious/time consuming
 
 ## Credits
 
